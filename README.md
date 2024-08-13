@@ -25,7 +25,7 @@ MySQL server
 
 # Installation
 1. Clone the repository:
-  git clone https://github.com/yourusername/springDataJPA.git
+  git clone https://github.com/MichealO1/springDataJPA.git
   cd springDataJPA
 
 2. Install dependencies:
